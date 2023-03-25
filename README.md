@@ -6,7 +6,7 @@ We will train a U-Net deep learning model to segment the lungs from chest radiog
 
 <img src="https://i.ibb.co/XjKTQ7P/4-png.jpg" alt="4-png" border="0">
 
-### **Notes**
+### **Important Notes**
 
 #### Dataset
 
