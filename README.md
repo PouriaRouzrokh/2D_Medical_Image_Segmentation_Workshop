@@ -1,2 +1,2 @@
 # 2D_Medical_Image_Segmentation_Workshop
-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
+This repository contains an educational notebook that walks the audience through an example 2D medical segmentation project using PyTorch and Monai.
