@@ -12,7 +12,7 @@ We will train a U-Net deep learning model to segment the lungs from chest radiog
 
 #### Dataset
 
-The dataset we will use is the Darwin chest Xray dataset, which contains ~6000 chest X-ray images and their corresponding binary segmentation masks. You can download the Darwin dataset from the following link (no need to do it for this notebook. The dataset is already stored in the GitHub repo):
+The dataset we will use is the Darwin chest Xray dataset, which contains ~6000 chest X-ray images and their corresponding binary segmentation masks. You can download the Darwin dataset from the following link (no need to do it for this notebook. The dataset will be directly downloaded from the notebook):
 
 https://data.mendeley.com/datasets/8gf9vpkhgy
 
